@@ -12,3 +12,97 @@ img,
 video {
   display: block;
 }
+
+body {
+  font-family: Roboto;
+  padding-top: 50px;
+}
+
+.bars {
+  gap: 10;
+}
+
+.countries {
+text-align: right;
+font-family: Roboto;
+font-size: 16px;
+margin-right: 20px;
+width: 100;
+}
+
+.procentages {
+  color: #FFF;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.mobiles {
+  background: #FFCC2F;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 2px;
+}
+
+.desktops {
+  border-radius: 0px 10px 10px 0px;
+  background: #37D3D2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.switzerland {
+  display: flex;
+  margin-bottom: 10;
+}
+.mobile_1 {
+  width: 195px;
+  height: 30px;
+}
+
+.desktop_1 {
+  width: 105px;
+  height: 30px;
+}
+
+
+.usa {
+  display: flex;
+  margin-bottom: 10;
+}
+.mobile_2 {
+  width: 153px;
+  height: 30px;
+}
+.desktop_2 {
+  width: 147px;
+  height: 30px;
+}
+
+
+.europe {
+  display: flex;
+  margin-bottom: 20;
+}
+.mobile_3 {
+  width: 123px;
+  height: 30px;
+}
+.desktop_3 {
+  width: 177px;
+  height: 30px;
+}
+
+.legend {
+  color: #000;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 120;
+padding-left: 200px;
+}
